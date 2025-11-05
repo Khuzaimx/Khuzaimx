@@ -1,8 +1,8 @@
-# 👨‍💻 Muhammad Khuzaim
+# Muhammad Khuzaim
 
-🧑‍🎓 Software Engineering Student at GIKI (2024–2028)  
-🌍 Open Source Contributor & Tech Explorer  
-🔭 Currently exploring AI tools, full stack web development, and secure cloud systems.
+  Working on distributed backend systems, scalable AI inference, and efficient data pipelines. 
+  Open Source Contributor & Tech Explorer  
+   
 
 ---
 

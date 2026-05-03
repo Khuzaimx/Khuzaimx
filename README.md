@@ -21,4 +21,4 @@ Backend engineer, interested in systems that hold up under load.
 
 `Python` `Django` `TypeScript` · `Docker` `Kubernetes` `AWS` `Redis` `PostgreSQL`
 
-> [Email](mailto:muhammadkhuzaim50@email.com))
+> [Email](mailto:muhammadkhuzaim50@email.com)

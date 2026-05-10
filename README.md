@@ -1,5 +1,5 @@
 # Muhammad Khuzaim
-Backend engineer, interested in systems that hold up under load.
+Backend engineer, interested in load holding.
 
 - **Backend Systems** request handling, service design, API architecture
 - **Distributed Systems** consensus, replication, failure handling

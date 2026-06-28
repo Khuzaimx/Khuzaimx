@@ -1,5 +1,6 @@
 # Muhammad Khuzaim
-Backend engineer @ 99 technologies, Backend engineer @ Ucloud, interested in load balancing and offensive surveillance.
+Backend engineer @ 99 technologies, Backend engineer @ Ucloud, Full stack developer @ PIMS.<br>
+Learning **offensive surveillance** and **distributed systems**.
 
 - **Backend Systems** request handling, service design, API architecture
 - **Distributed Systems** consensus, replication, failure handling

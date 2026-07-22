@@ -1,5 +1,5 @@
 # Muhammad Khuzaim 
-** Customer Relationship management** | ** Enterprise Resource planning ** | ** Inventory Management systems **
+**Customer Relationship management** | **Enterprise Resource planning** | **Inventory Management systems**
 
 - **Backend Systems** request handling, service design, API architecture
 - **Distributed Systems** consensus, replication, failure handling

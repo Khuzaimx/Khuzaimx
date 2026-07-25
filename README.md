@@ -1,5 +1,5 @@
 # Muhammad Khuzaim 
-**Customer Relationship management** | **Enterprise Resource planning** | **Inventory Management systems**
+Backend engineer building production CRMs, IAM, IMS, OMS, POS, WMS and ERP platforms serving users at scale.
 
 - **Backend Systems** request handling, service design, API architecture
 - **Distributed Systems** consensus, replication, failure handling

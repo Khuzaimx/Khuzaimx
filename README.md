@@ -1,5 +1,5 @@
 # Muhammad Khuzaim 
-I build CRMs, IAM, IMS, OMS, POS, WMS and ERP platforms serving small and medium scale businesses.<br>
+I build CRMs, IAM, IMS, OMS, POS, WMS and ERP platforms for US and UAE based medium and small scale businesses.<br>
 Currently leading the development of **omnichannel ERP** for sj computers  St. Paul Minnesota.
 
 ---
